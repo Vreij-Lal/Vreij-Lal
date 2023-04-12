@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right">
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ My goal is to connect people and make lives easier through code. <br/>
