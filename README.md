@@ -1,4 +1,4 @@
-<div> <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/banner.png"> </div></br>
+<div> <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/banner.png" width="100%"> </div></br>
 
 ###  Hi :v:, I'm Vreij </br>
 ~ My goal is to connect people and make lives easier through code. <br/>
