@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="240px" width="300px">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" height="100px" width="300px">
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ My goal is to connect people and make lives easier through code. <br/>
