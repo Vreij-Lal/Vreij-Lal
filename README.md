@@ -1,7 +1,7 @@
 <div> <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" width="300px" height="200px"> </div>
 
 ###  Hi :v:, I'm Vreij </br>
-~ Full Stack Web Developer
+~ Full Stack Web Developer </br>
 ~ My goal is to connect people and make lives easier through code. <br/>
 ~ I am currently working on an social media app :sparkles: </br>
 ~ Let's connect :point_right: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Vreij Lal" alt="liknkedn" width="25" align ="center" height="25"/>](https://www.linkedin.com/in/vreij-lal-8a5989214/)</br>
