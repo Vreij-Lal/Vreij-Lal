@@ -3,7 +3,7 @@
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ My goal is to connect people and make lives easier through code. <br/>
-~ I am currently working on an social media app :sparkles: </br>
+~ I am currently working on a social media app :sparkles: </br>
 ~ Let's connect :point_right: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Vreij Lal" alt="liknkedn" width="25" align ="center" height="25"/>](https://www.linkedin.com/in/vreij-lal-8a5989214/)</br>
 
 ### :hammer_and_wrench: Scripting, programming languages and tools that I use: 
