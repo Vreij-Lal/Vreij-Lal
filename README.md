@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratch%20logo.png"  title="Scratch" alt="Scratch" width="60" height="40"/>&nbsp;
+  
 </div>
 
 ### :hammer_and_wrench: Stacks that I will be learning in the future:
