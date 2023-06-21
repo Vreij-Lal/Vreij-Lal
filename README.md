@@ -32,7 +32,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratchlogo.svg.png"  title="Scratch" alt="Scratch" width="60" height="40" style="margin-top:2px;"/>&nbsp;
-  
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="40" style="margin-top:2px;"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title="Dotnet Core" alt="Dotnet Core" width="60" height="40" style="margin-top:2px;"/>&nbsp;
+
+    <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratchlogo.svg.png"  title="Entity Framework Core" alt="Entity Framework Core" width="60" height="40" style="margin-top:2px;"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  title="SQL" alt="SQL" width="60" height="40" style="margin-top:2px;"/>&nbsp;    
 </div>
 
 ### :hammer_and_wrench: Stacks that I will be learning in the future:
