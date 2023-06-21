@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socket-io" alt="socket-io" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="40" style="margin-top:2px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet Core" alt="Dotnet Core" width="60" height="40" style="margin-top:2px;"/>&nbsp;
-    <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/EF%20Core.png"  title="Entity Framework Core" alt="Entity Framework Core" width="60" height="60" style="margin-top:2px;"/>&nbsp;
+    <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/ef-core-featured.png"  title="Entity Framework Core" alt="Entity Framework Core" width="60" height="40" style="margin-top:2px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  title="SQL" alt="SQL" width="60" height="60" style="margin-top:2px;"/>&nbsp;    
 </div>
 
