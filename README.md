@@ -1,4 +1,4 @@
-<div> <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" width="300px" height="200px"> </div>
+<div class="tenor-gif-embed" data-postid="19318850" data-share-method="host" data-aspect-ratio="2.02532" data-width="100%"><a href="https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850">Code Its Fun Code GIF</a>from <a href="https://tenor.com/search/code+its+fun-gifs">Code Its Fun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
