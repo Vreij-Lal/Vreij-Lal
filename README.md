@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="19318850" data-share-method="host" data-aspect-ratio="2.02532" data-width="100%"><a href="https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850">Code Its Fun Code GIF</a>from <a href="https://tenor.com/search/code+its+fun-gifs">Code Its Fun GIFs</a></div>
+
 
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
