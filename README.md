@@ -1,5 +1,3 @@
-
-
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ I am currently working on creating my own programming language :sparkles: </br>
