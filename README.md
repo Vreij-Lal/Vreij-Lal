@@ -1,6 +1,6 @@
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
-~ I am currently working on creating my own programming language :sparkles: </br>
+~ I Revising DSA And Will Start Leet Code :sparkles: </br>
 
 ### :hammer_and_wrench:Languages and tools that I use: 
 <div>
