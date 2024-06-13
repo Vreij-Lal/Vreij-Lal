@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#Vreij-Lal">
+      <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML
