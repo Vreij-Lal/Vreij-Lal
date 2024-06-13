@@ -22,7 +22,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td
+    </td>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
     
   </tr>
 </table>
