@@ -87,8 +87,7 @@
 </table>
 <table>
   <tr>
-      <td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
