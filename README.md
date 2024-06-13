@@ -107,7 +107,7 @@
     </td>
       <td align="center" width="96">
       <a href="#" style="cursor:none;">
-        <img src=""https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"" width="48" height="48" alt="Asp.Net Core" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"" width="48" height="48" alt="Asp.Net Core" />
       </a>
       <br>ASP.Net Core
     </td>
@@ -122,6 +122,76 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>NodeJs
+    </td>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>ExpressJs
+    </td>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="Mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+        <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+        </td>
+        <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="48" height="48" alt="Socket-IO" />
+      </a>
+      <br>Socket-IO
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="48" height="48" alt="JQuery" />
+      </a>
+      <br>JQuery
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratchlogo.svg.png" width="48" height="48" alt="Scratch" />
+      </a>
+      <br>
     </td>
   </tr>
 </table>
