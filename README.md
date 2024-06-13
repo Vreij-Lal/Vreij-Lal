@@ -1,6 +1,7 @@
 <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal" align ="right" width="400px" height="400px"/>
 </br>
-###  Hi :v:, I'm Vreij </br>
+
+### Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
                                                                
