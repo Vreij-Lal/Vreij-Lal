@@ -54,7 +54,7 @@
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
       </a>
-      <br>Express
+      <br>ExpressJs
     </td>
     <td align="center" width="96">
       <a href="#" style="cursor:none;">
@@ -70,9 +70,16 @@
     </td>
         <td align="center" width="96">
       <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="Firebase" />
       </a>
-      <br>C#
+      <br>Firebase
+    </td>
+        </td>
+        <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="48" height="48" alt="Socket-IO" />
+      </a>
+      <br>Socket-IO
     </td>
   </tr>
 </table>
