@@ -5,9 +5,9 @@
 > Tools, languages, and other things that I like to work with.
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="84">
       <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="12" height="36" alt="HTML" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
       </a>
       <br><p>HTML</p>
     </td>
