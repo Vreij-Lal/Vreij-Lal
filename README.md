@@ -93,11 +93,35 @@
       </a>
       <br>C
     </td>
-        <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src=""https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"" width="48" height="48" alt="Asp.Net Core" />
+      </a>
+      <br>ASP.Net Core
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/ef-core-featured.png" width="48" height="48" alt="Entity Framework Core" />
+      </a>
+      <br>Entity Framework Core
+    </td>
+      <td align="center" width="96">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
   </tr>
 </table>
