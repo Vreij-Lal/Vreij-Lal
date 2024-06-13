@@ -4,8 +4,10 @@
 ~ Full Stack Web Developer </br>
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
 
+<div>
+  > Tools, languages, and other things that I like to work with.
+</div>
 
-> Tools, languages, and other things that I like to work with.
 <table>
   <tr>
     <td align="center" width="72">
