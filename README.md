@@ -1,4 +1,4 @@
-<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal" align ="right" width="300px" height="300px"/>
+<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal" align ="right" width="400px" height="400px"/>
 
 ###  Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
