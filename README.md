@@ -191,7 +191,7 @@
       <a href="#" style="cursor:none;">
         <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratchlogo.svg.png" width="48" height="48" alt="Scratch" />
       </a>
-      <br>
+      <br>Scratch
     </td>
   </tr>
 </table>
