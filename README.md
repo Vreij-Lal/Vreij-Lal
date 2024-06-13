@@ -4,8 +4,9 @@
 ### Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
-                                                               
-
+~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>                                                               
+~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
+~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
 </br>
 
 > Tools, languages, and other things that I like to work with.
