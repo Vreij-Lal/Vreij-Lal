@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="72">
       <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
