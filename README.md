@@ -66,6 +66,12 @@
   <tr width="100%">
     <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+    <td align="center" width="11.11%">
+      <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
       </a>
       <br>C
@@ -100,13 +106,7 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="11.11%">
-      <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" />
-      </a>
-      <br>Mongoose
-    </td>
-        <td align="center" width="11.11%">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Firebase" />
       </a>
