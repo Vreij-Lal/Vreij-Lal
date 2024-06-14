@@ -7,8 +7,8 @@
 
 > Tools, languages, and other things that I know.
 <table>
-  <tr>
-    <td align="center" width="11.11%" style="border:none">
+  <tr width="100%">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
       </a>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 <table>
-  <tr>
+  <tr width="100%">
     <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
@@ -124,7 +124,7 @@
   </tr>
 </table>
 <table>
-  <tr>
+  <tr width="100%">
     <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" />
