@@ -63,8 +63,6 @@
       <br>MongoDB
     </td>
   </tr>
-</table>
-<table>
   <tr width="100%">
     <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
@@ -123,6 +121,7 @@
     </td>
   </tr>
 </table>
+
 <table>
   <tr width="100%">
     <td align="center" width="11.11%">
