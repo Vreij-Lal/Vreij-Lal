@@ -72,6 +72,18 @@
     </td>
     <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+        <td align="center" width="11.11%">
+      <a href="#" style="cursor:none;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket-IO" />
+      </a>
+      <br>Socket-IO
+    </td>
+    <td align="center" width="11.11%">
+      <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
       </a>
       <br>C
@@ -105,19 +117,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
       </a>
       <br>Git
-    </td>
-      <td align="center" width="11.11%">
-      <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-        </td>
-        <td align="center" width="11.11%">
-      <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket-IO" />
-      </a>
-      <br>Socket-IO
     </td>
   </tr>
   <tr width="100%">
