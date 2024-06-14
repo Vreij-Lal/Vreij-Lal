@@ -8,55 +8,55 @@
 > Tools, languages, and other things that I know.
 <table>
   <tr>
-    <td align="center" width="72" style="border:none">
+    <td align="center" width="11.11%" style="border:none">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
       </a>
       <br><p>HTML</p>
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS" />
       </a>
       <br>CSS
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" />
       </a>
       <br>SASS
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="36" height="36" alt="NodeJs" />
       </a>
       <br>NodeJs
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="ExpressJs" />
       </a>
       <br>ExpressJs
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" />
       </a>
