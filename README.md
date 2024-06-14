@@ -5,7 +5,7 @@
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
 <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="400px" height="400px"/>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I know.
 <table>
   <tr>
     <td align="center" width="72">
@@ -88,7 +88,7 @@
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"" width="36" height="36" alt="Asp.Net Core" />
       </a>
-      <br>ASP.Net Core
+      <br>.Net Core
     </td>
       <td align="center" width="72">
       <a href="#" style="cursor:none;">
