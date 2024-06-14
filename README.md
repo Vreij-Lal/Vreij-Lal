@@ -16,7 +16,7 @@
     </td>
     <td align="center" width="72">
       <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="36" height="36" alt="CSS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS" />
       </a>
       <br>CSS
     </td>
