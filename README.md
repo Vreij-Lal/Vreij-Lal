@@ -82,7 +82,7 @@
         </td>
         <td align="center" width="72">
       <a href="#" style="cursor:none;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="36" height="36" alt="Socket-IO" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket-IO" />
       </a>
       <br>Socket-IO
     </td>
