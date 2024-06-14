@@ -92,7 +92,7 @@
       <a href="#" style="cursor:none;">
         <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/ef-core-featured.png" width="36" height="36" alt="Entity Framework Core" />
       </a>
-      <br>Entity Framework Core
+      <br>EF Core
     </td>
       <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
