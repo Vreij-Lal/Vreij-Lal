@@ -66,56 +66,56 @@
 </table>
 <table>
   <tr>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
       </a>
       <br>C
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
       </a>
       <br>C#
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="36" height="36" alt="SQL" />
       </a>
       <br>SQL
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"" width="36" height="36" alt="Asp.Net Core" />
       </a>
       <br>.Net Core
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/ef-core-featured.png" width="36" height="36" alt="Entity Framework Core" />
       </a>
       <br>Entity Framework Core
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" width="36" height="36" alt="Mongoose" />
       </a>
       <br>Mongoose
     </td>
-        <td align="center" width="72">
+        <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
         </td>
-        <td align="center" width="72">
+        <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket-IO" />
       </a>
@@ -125,25 +125,25 @@
 </table>
 <table>
   <tr>
-    <td align="center" width="72">
+    <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" />
       </a>
       <br>Java
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python" />
       </a>
       <br>Python
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="36" height="36" alt="JQuery" />
       </a>
       <br>JQuery
     </td>
-      <td align="center" width="72">
+      <td align="center" width="11.11%">
       <a href="#" style="cursor:none;">
         <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Scratchlogo.svg.png" width="36" height="36" alt="Scratch" />
       </a>
