@@ -30,3 +30,4 @@
 ![Static Badge](https://img.shields.io/badge/Asp.Net%20Core%20Web%20APIs-white?logo=.Net&logoColor=%23512BD4&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Windows%20Forms-white?logo=windows11&logoColor=%234D4D4D&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=%23F05032&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=%234169E1&logoSize=auto&labelColor=white)
