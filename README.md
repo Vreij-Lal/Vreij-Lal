@@ -3,7 +3,7 @@
 ### Hi :v:, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
-<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="400px" height="400px"/>
+<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="300px" height="300px"/>
 
 > Tools, languages, and other things that I know.
 <table>
