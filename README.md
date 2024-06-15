@@ -146,3 +146,15 @@
     </td>
   </tr>
 </table>
+
+![Static Badge](https://img.shields.io/badge/HTML-white?logo=html5&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/CSS-white?logo=css3&logoColor=2965F1&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Javascript-white?logo=javascript&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React-white?logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap&logoColor=%237952B3&logoSize=auto&labelColor=white)
+
+
+
+
+
+
