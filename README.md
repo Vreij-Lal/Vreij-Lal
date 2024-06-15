@@ -157,6 +157,10 @@
 ![Static Badge](https://img.shields.io/badge/ExpressJs-white?logo=express&logoColor=%23000000&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDb-white?logo=mongodb&logoColor=%2347A248&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/mongoose-white?logo=mongoose&logoColor=%23880000&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=%23DD2C00&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Socket%20IO-white?logo=socket.io&logoColor=%23010101&labelColor=white)
+![Static Badge](https://img.shields.io/badge/C-white?logo=c&logoColor=%23010101&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-white?logo=c%23&logoColor=%23512BD4&logoSize=auto&labelColor=white)
 
 
 
