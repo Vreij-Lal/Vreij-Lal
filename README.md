@@ -25,4 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=%233776AB&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Jquery-white?logo=jquery&logoColor=%230769AD&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Scratch-white?logo=scratch&logoColor=%23FFAB19&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Asp.Net%20Core-white?logo=.Net&logoColor=%23512BD4&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Asp.Net%20MVC-white?logo=.Net&logoColor=%23512BD4&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Asp.Net%20Core%20Web%20APIs-white?logo=.Net&logoColor=%23512BD4&logoSize=auto&labelColor=white)
 
