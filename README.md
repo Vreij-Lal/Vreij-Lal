@@ -152,6 +152,11 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-white?logo=javascript&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/React-white?logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap&logoColor=%237952B3&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Sass-white?logo=Sass&logoColor=%23CC6699&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/NodeJs-white?logo=node.js&logoColor=%235FA04E&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/ExpressJs-white?logo=express&logoColor=%23000000&labelColor=white)
+![Static Badge](https://img.shields.io/badge/MongoDb-white?logo=mongodb&logoColor=%2347A248&labelColor=white)
+![Static Badge](https://img.shields.io/badge/mongoose-white?logo=mongoose&logoColor=%23880000&logoSize=auto&labelColor=white)
 
 
 
