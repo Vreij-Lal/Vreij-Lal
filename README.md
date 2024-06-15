@@ -161,9 +161,7 @@
 ![Static Badge](https://img.shields.io/badge/Socket%20IO-white?logo=socket.io&logoColor=%23010101&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/C-white?logo=c&logoColor=%23010101&logoSize=auto&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-white?logo=c%23&logoColor=%23512BD4&logoSize=auto&labelColor=white)
-
-
-
-
-
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-white?logo=microsoftsqlserver&logoColor=%23CC2927&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=%233776AB&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Jquery-white?logo=jquery&logoColor=%230769AD&logoSize=auto&labelColor=white)
 
