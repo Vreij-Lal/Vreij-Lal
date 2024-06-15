@@ -6,6 +6,7 @@
 <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="300px" height="300px"/>
 
 > Tools, languages, and other things that I know.
+
 ![Static Badge](https://img.shields.io/badge/HTML-white?logo=html5&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/CSS-white?logo=css3&logoColor=2965F1&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Javascript-white?logo=javascript&logoSize=auto)
