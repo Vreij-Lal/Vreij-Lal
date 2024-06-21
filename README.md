@@ -47,7 +47,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scratch](https://img.shields.io/badge/Scratch-%23323330.svg?style=for-the-badge&logo=scratch&logoColor=FFAB19)
 </br>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET%20Core%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET%20Core%20Web%20APIs-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+</br>
 ![Windoes Forms](https://img.shields.io/badge/Windows%20%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
