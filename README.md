@@ -3,7 +3,7 @@
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
 <img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="300px" height="300px"/>
 
-![](https://komarev.com/ghpvc/?username=Vreij-Lal&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Vreij-Lal&abbreviated=true&style=for-the-badge&color=orange)
 <h3>🔍 Reach Me On</h3>
 
 
