@@ -39,6 +39,6 @@
 ![Windoes Forms](https://img.shields.io/badge/Windows%20%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23323330.svg?style=for-the-badge&logo=mongoose&logoColor=880000)
-![Static Badge](https://img.shields.io/badge/Scratch-white?logo=scratch&logoColor=%23FFAB19&logoSize=auto&labelColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-%23323330.svg?style=for-the-badge&logo=scratch&logoColor=FFAB19)
 
 
