@@ -1,5 +1,6 @@
 ### 👋 Hi there, I'm Vreij </br>
-~ Full Stack Web Developer </br>
+~ Full Stack Web Developer Specializing In Backend  </br>
+~ Getting Ready To Learn Advanced Concepts Of Backend In Web Development
 ~ Currently Revising DSA And Will Start Leet Code :sparkles: 
 
 </br>
