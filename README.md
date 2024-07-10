@@ -1,9 +1,14 @@
 ### 👋 Hi there, I'm Vreij </br>
 ~ Full Stack Web Developer </br>
-~ Currently Revising DSA And Will Start Leet Code :sparkles: </br>
-<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="300px" height="300px"/>
+~ Currently Revising DSA And Will Start Leet Code :sparkles: 
+
+</br>
 
 ![](https://komarev.com/ghpvc/?username=Vreij-Lal&abbreviated=true&style=for-the-badge&color=orange)
+
+<img src="https://github.com/Vreij-Lal/Vreij-Lal/blob/main/Vreij.gif" title="Vreij Lal"  width="300px" height="300px"/>
+
+
 <h3>🔍 Reach Me On</h3>
 
 <a href="mailto:vreijlal@gmail.com">
@@ -37,8 +42,6 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
 </a>
 
-</br>
-</br>
 </br>
 
 <h2>Skills</h1>
