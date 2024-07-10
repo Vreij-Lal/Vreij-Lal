@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Vreij-Lal&abbreviated=true&style=for-the-badge&color=orange)
 <h3>🔍 Reach Me On</h3>
 
-<a href="vreijlal@gmail.com">
+<a href="mailto:vreijlal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
