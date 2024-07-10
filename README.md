@@ -6,12 +6,12 @@
 ![](https://komarev.com/ghpvc/?username=Vreij-Lal&abbreviated=true&style=for-the-badge&color=orange)
 <h3>🔍 Reach Me On</h3>
 
-<a href="https://www.linkedin.com/in/vreij-lal-8a5989214/">
+<a href="https://mail.google.com/">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 
-<a href="https://mail.google.com/">
+<a href="https://www.linkedin.com/in/vreij-lal-8a5989214/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 
